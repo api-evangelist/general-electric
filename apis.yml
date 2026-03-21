@@ -1,0 +1,7 @@
+aid: general-electric
+url: https://raw.githubusercontent.com/api-evangelist/general-electric/refs/heads/main/apis.yml
+modified: '2026-03-21'
+apis: []
+common:
+  - type: Website
+    url: https://www.general-electric.com
