@@ -1,7 +1,11 @@
 aid: general-electric
-url: https://raw.githubusercontent.com/api-evangelist/general-electric/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/general-electric/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.general-electric.com
+description: >-
+  The future of GE's companies begins now with the planned spinoff of GE Aerospace
+  and GE Vernova. See how the GE companies are empowering the next generation.
