@@ -10,6 +10,8 @@ tags:
   - Fortune 500
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/ge
   - type: Website
     url: https://www.ge.com
   - type: GE Aerospace
