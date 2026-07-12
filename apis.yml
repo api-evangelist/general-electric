@@ -10,6 +10,10 @@ tags:
   - Fortune 500
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/general-electric-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/general-electric-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/ge
   - type: Website
