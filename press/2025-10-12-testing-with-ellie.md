@@ -1,7 +1,9 @@
 ---
 title: Testing with Ellie
 url: https://www.ge.com/news/press-releases/testing-with-ellie
-date: '2025-10-12'
+published: ''
+date_basis: harvested
+harvested: '2025-10-12'
 author: ''
 feed_url: http://www.ge.com/news/rss.xml
 ---

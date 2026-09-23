@@ -2,7 +2,9 @@
 title: GE Aerospace Launches as Independent, Investment-Grade Public Company Following
   Completion of GE Vernova Spin-Off
 url: https://www.ge.com/news/press-releases/ge-aerospace-launches-as-independent-investment-grade-public-company-following
-date: '2024-04-02'
+published: ''
+date_basis: harvested
+harvested: '2024-04-02'
 author: ''
 feed_url: http://www.ge.com/news/rss.xml
 ---

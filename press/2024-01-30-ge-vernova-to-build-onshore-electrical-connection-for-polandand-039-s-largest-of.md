@@ -2,7 +2,9 @@
 title: GE Vernova to build onshore electrical connection for Poland&#039;s largest
   offshore wind farm, Baltica
 url: https://www.ge.com/news/press-releases/ge-vernova-to-build-onshore-electrical-connection-for-poland-largest-offshore-wind-farm-baltica
-date: '2024-01-30'
+published: ''
+date_basis: harvested
+harvested: '2024-01-30'
 author: ''
 feed_url: http://www.ge.com/news/rss.xml
 ---

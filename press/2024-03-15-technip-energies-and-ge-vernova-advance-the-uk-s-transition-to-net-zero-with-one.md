@@ -2,7 +2,9 @@
 title: Technip Energies and GE Vernova advance the UK’s transition to net-zero with
   one of the world’s first commercial scale gas-fired power and carbon capture projects
 url: https://www.ge.com/news/press-releases/technip-energies-ge-vernova-advance-the-uk-transition-to-net-zero-teesside
-date: '2024-03-15'
+published: ''
+date_basis: harvested
+harvested: '2024-03-15'
 author: ''
 feed_url: http://www.ge.com/news/rss.xml
 ---

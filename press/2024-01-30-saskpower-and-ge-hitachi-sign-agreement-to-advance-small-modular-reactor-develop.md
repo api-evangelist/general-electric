@@ -1,7 +1,9 @@
 ---
 title: SaskPower and GE Hitachi sign agreement to advance small modular reactor development
 url: https://www.ge.com/news/ext-press-releases/saskpower-and-ge-hitachi-sign-agreement-to-advance-small-modular-reactor
-date: '2024-01-30'
+published: ''
+date_basis: harvested
+harvested: '2024-01-30'
 author: ''
 feed_url: http://www.ge.com/news/rss.xml
 ---

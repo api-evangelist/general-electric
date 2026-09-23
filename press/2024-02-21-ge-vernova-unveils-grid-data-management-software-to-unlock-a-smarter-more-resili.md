@@ -2,7 +2,9 @@
 title: GE Vernova unveils grid data management software to unlock a smarter, more
   resilient energy network
 url: https://www.ge.com/news/press-releases/ge-vernova-unveils-grid-data-management-software-unlock-smarter-more-resilient-energy-network
-date: '2024-02-21'
+published: ''
+date_basis: harvested
+harvested: '2024-02-21'
 author: ''
 feed_url: http://www.ge.com/news/rss.xml
 ---

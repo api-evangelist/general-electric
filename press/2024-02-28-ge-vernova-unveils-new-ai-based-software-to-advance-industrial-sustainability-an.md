@@ -2,7 +2,9 @@
 title: GE Vernova unveils new AI-based software to advance industrial sustainability
   and operations goals simultaneously
 url: https://www.ge.com/news/press-releases/ge-vernova-unveils-new-ai-based-software-to-advance-industrial-sustainability-operations-goals
-date: '2024-02-28'
+published: ''
+date_basis: harvested
+harvested: '2024-02-28'
 author: ''
 feed_url: http://www.ge.com/news/rss.xml
 ---

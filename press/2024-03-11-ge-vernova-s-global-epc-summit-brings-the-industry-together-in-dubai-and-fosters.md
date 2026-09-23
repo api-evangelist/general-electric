@@ -2,7 +2,9 @@
 title: GE Vernova’s Global EPC Summit brings the industry together in Dubai and fosters
   collaboration and common safety standards
 url: https://www.ge.com/news/press-releases/ge-vernova-global-epc-summit-brings-industry-together-dubai-fosters-collaboration-safety-standards
-date: '2024-03-11'
+published: ''
+date_basis: harvested
+harvested: '2024-03-11'
 author: ''
 feed_url: http://www.ge.com/news/rss.xml
 ---

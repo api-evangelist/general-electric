@@ -1,7 +1,9 @@
 ---
 title: GE Vernova helps Kindle Energy support Colorado’s energy transition
 url: https://www.ge.com/news/press-releases/ge-vernova-helps-kindle-energy-support-colorados-energy-transition
-date: '2024-02-29'
+published: ''
+date_basis: harvested
+harvested: '2024-02-29'
 author: ''
 feed_url: http://www.ge.com/news/rss.xml
 ---

@@ -2,7 +2,9 @@
 title: GE Vernova secures major orders from PGCIL to accelerate India&#039;s energy
   transition
 url: https://www.ge.com/news/press-releases/ge-vernova-secures-major-orders-from-pgcil-to-accelerate-india-energy-transition
-date: '2024-02-27'
+published: ''
+date_basis: harvested
+harvested: '2024-02-27'
 author: ''
 feed_url: http://www.ge.com/news/rss.xml
 ---

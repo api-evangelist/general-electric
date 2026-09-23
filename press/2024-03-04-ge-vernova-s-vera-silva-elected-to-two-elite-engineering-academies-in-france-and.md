@@ -2,7 +2,9 @@
 title: GE Vernova’s Vera Silva elected to two elite engineering academies in France
   and the U.S.
 url: https://www.ge.com/news/press-releases/ge-vernova-vera-silva-elected-two-elite-engineering-academies-in-france-and-usa
-date: '2024-03-04'
+published: ''
+date_basis: harvested
+harvested: '2024-03-04'
 author: ''
 feed_url: http://www.ge.com/news/rss.xml
 ---

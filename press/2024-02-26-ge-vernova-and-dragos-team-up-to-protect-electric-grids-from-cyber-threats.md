@@ -1,7 +1,9 @@
 ---
 title: GE Vernova and Dragos team up to protect electric grids from cyber threats
 url: https://www.ge.com/news/press-releases/ge-vernova-and-dragos-team-up-to-protect-electric-grids-from-cyber-threats
-date: '2024-02-26'
+published: ''
+date_basis: harvested
+harvested: '2024-02-26'
 author: ''
 feed_url: http://www.ge.com/news/rss.xml
 ---

@@ -1,7 +1,9 @@
 ---
 title: GE Aerospace Hosts 2024 Investor Day
 url: https://www.ge.com/news/press-releases/ge-aerospace-hosts-2024-investor-day
-date: '2024-03-07'
+published: ''
+date_basis: harvested
+harvested: '2024-03-07'
 author: ''
 feed_url: http://www.ge.com/news/rss.xml
 ---

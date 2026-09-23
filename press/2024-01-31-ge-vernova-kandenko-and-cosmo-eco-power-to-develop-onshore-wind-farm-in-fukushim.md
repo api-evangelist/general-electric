@@ -2,7 +2,9 @@
 title: GE Vernova, Kandenko and Cosmo Eco Power to develop onshore wind farm in Fukushima,
   Japan
 url: https://www.ge.com/news/press-releases/ge-vernova-kandenko-and-cosmo-eco-power-to-develop-onshore-wind-farm-in-fukushima-japan
-date: '2024-01-31'
+published: ''
+date_basis: harvested
+harvested: '2024-01-31'
 author: ''
 feed_url: http://www.ge.com/news/rss.xml
 ---

@@ -2,7 +2,9 @@
 title: GE Board of Directors Approves Spin-Off of GE Vernova; GE Vernova and GE Aerospace
   to Launch April 2, 2024
 url: https://www.ge.com/news/press-releases/ge-board-of-directors-approves-spin-off-of-ge-vernova-ge-vernova-and-ge-aerospace-to
-date: '2024-02-29'
+published: ''
+date_basis: harvested
+harvested: '2024-02-29'
 author: ''
 feed_url: http://www.ge.com/news/rss.xml
 ---

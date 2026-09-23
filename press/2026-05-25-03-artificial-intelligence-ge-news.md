@@ -1,7 +1,9 @@
 ---
 title: Artificial Intelligence | GE News
 url: https://www.ge.com/news/taxonomy/term/315
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"General Electric" press release artificial intelligence'
 position: 3
 source: serpapi-google

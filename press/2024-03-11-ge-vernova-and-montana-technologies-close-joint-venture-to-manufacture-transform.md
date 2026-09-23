@@ -2,7 +2,9 @@
 title: GE Vernova and Montana Technologies close Joint Venture to manufacture transformational
   air conditioning and atmospheric water harvesting products
 url: https://www.ge.com/news/press-releases/ge-vernova-and-montana-technologies-close-joint-venture-to-manufacture
-date: '2024-03-11'
+published: ''
+date_basis: harvested
+harvested: '2024-03-11'
 author: ''
 feed_url: http://www.ge.com/news/rss.xml
 ---

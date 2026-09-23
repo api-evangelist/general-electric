@@ -2,7 +2,9 @@
 title: 'GE Vernova ranked #1 in 2024 Guidehouse Insights Leaderboard for GridOS® DERMS
   software that enables a smarter, resilient grid'
 url: https://www.ge.com/news/press-releases/ge-vernova-ranked-1-in-2024-guidehouse-insights-leaderboard-for-gridos-derms-software-enables-smarter-resilient-grid
-date: '2024-02-27'
+published: ''
+date_basis: harvested
+harvested: '2024-02-27'
 author: ''
 feed_url: http://www.ge.com/news/rss.xml
 ---

@@ -2,7 +2,9 @@
 title: GE Vernova launches new portfolio of Grid Automation solutions to enhance grid
   resilience
 url: https://www.ge.com/news/press-releases/ge-vernova-launches-new-portfolio-of-grid-automation-solutions-to-enhance-grid-resilience
-date: '2024-02-28'
+published: ''
+date_basis: harvested
+harvested: '2024-02-28'
 author: ''
 feed_url: http://www.ge.com/news/rss.xml
 ---

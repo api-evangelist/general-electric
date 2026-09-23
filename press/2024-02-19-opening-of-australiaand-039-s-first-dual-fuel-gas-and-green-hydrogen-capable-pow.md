@@ -2,7 +2,9 @@
 title: Opening of Australia&#039;s first dual-fuel gas and green hydrogen capable
   power plant in New South Wales
 url: https://www.ge.com/news/press-releases/opening-of-australia-first-dual-fuel-gas-and-green-hydrogen-capable-power-plant-in
-date: '2024-02-19'
+published: ''
+date_basis: harvested
+harvested: '2024-02-19'
 author: ''
 feed_url: http://www.ge.com/news/rss.xml
 ---

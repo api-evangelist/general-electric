@@ -2,7 +2,9 @@
 title: GE Vernova’s Nuclear Fuel business receives regulatory approval to manufacture
   higher enrichment fuel
 url: https://www.ge.com/news/press-releases/ge-vernova-nuclear-fuel-business-receives-regulatory-approval-to-manufacture-higher-enrichment-fuel
-date: '2024-02-14'
+published: ''
+date_basis: harvested
+harvested: '2024-02-14'
 author: ''
 feed_url: http://www.ge.com/news/rss.xml
 ---

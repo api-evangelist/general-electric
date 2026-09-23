@@ -1,7 +1,9 @@
 ---
 title: GE Vernova names Sharon Heck as Treasurer
 url: https://www.ge.com/news/press-releases/ge-vernova-names-sharon-heck-as-treasurer
-date: '2024-03-11'
+published: ''
+date_basis: harvested
+harvested: '2024-03-11'
 author: ''
 feed_url: http://www.ge.com/news/rss.xml
 ---

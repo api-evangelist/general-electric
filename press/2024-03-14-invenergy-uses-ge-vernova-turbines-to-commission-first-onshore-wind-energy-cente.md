@@ -2,7 +2,9 @@
 title: Invenergy uses GE Vernova turbines to commission first onshore wind energy
   center in Japan
 url: https://www.ge.com/news/press-releases/invenergy-uses-ge-vernova-turbines-commission-first-onshore-wind-energy-center-japan
-date: '2024-03-14'
+published: ''
+date_basis: harvested
+harvested: '2024-03-14'
 author: ''
 feed_url: http://www.ge.com/news/rss.xml
 ---
